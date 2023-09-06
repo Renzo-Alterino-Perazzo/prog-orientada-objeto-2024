@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueba/TP1/TP1.iml" filepath="$PROJECT_DIR$/Prueba/TP1/TP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mastermind/mastermind.iml" filepath="$PROJECT_DIR$/mastermind/mastermind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pilas/pilas.iml" filepath="$PROJECT_DIR$/pilas/pilas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueba/prueba1/prueba1.iml" filepath="$PROJECT_DIR$/Prueba/prueba1/prueba1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueba/prueba2/prueba2.iml" filepath="$PROJECT_DIR$/Prueba/prueba2/prueba2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueba/prueba3/prueba3.iml" filepath="$PROJECT_DIR$/Prueba/prueba3/prueba3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueba/pruebaJava/pruebaJava.iml" filepath="$PROJECT_DIR$/Prueba/pruebaJava/pruebaJava.iml" />
+    </modules>
+  </component>
+</project>
